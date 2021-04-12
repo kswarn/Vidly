@@ -4,7 +4,7 @@ A pure Node.js application built using the Express framework and MongoDB databas
 that allows users to rent movies, filter movies by genres and return the movie after the renting period is complete. 
 
 # To run the application
- $ npm install
+ $ npm install \n
  Set the jwt private key
  $ SET vidly_jwtPrivateKey=""
  $ nodemon
