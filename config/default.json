@@ -1,4 +1,5 @@
 {
-  "jwtPrivateKey": "",
-  "database": "mongodb://localhost/vidly"
+  "jwtPrivateKey": "1234",
+  "database": "mongodb://localhost/vidly",
+  "requiresAuth": false
 }
